@@ -1,1 +1,1 @@
-# my-img
+# my-diagrams
